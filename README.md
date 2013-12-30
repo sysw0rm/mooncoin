@@ -10,3 +10,7 @@ https://mooncoin.info/
 Contact:
 
 IRC: irc.freenode.net Channel: #mooncoin
+
+List of mining pools:
+
+http://weminemoon.com - 0% Fee - Stratum + VarDiff
